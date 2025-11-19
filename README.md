@@ -1,20 +1,17 @@
 <div align="center">
 
-# TiRex Bypasser
+# 🦖 TiRex Bypasser
 
 ### *We are TiRex, we are never Tired.*
 
-[![Version](https://img.shields.io/badge/version-1.0.1--beta.5-blue.svg)](https://github.com/dyr14n/auto-bypasser/releases)
+[![Version](https://img.shields.io/badge/version-1.0.1--beta.5-blue.svg)](https://github.com/dyr14n/tirex-bypasser/releases)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)](https://github.com/dyr14n/auto-bypasser)
-[![Downloads](https://img.shields.io/github/downloads/dyr14n/auto-bypasser/total.svg)](https://github.com/dyr14n/auto-bypasser/releases)
+[![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)](https://github.com/dyr14n/tirex-bypasser)
+[![Downloads](https://img.shields.io/github/downloads/dyr14n/tirex-bypasser/total.svg)](https://github.com/dyr14n/tirex-bypasser/releases)
 
 **Automatic bypass tool for Volcano, Work.ink and more**
 
-[Download](https://github.com/dyr14n/auto-bypasser/releases/latest) • [Discord](https://discord.gg/DWyEfeBCzY) • [YouTube](https://www.youtube.com/@dyydeptry)
-
 </div>
-
 
 ## Features
 
@@ -35,29 +32,10 @@
 
 ## Installation
 
-### Method 1: One-Click Installer (Recommended)
-
-1. Download the latest **[Volcano-Bypasser.exe](https://github.com/dyr14n/auto-bypasser/releases/latest)**
+1. Download the latest **[Volcano-Bypasser.exe](https://github.com/dyr14n/tirex-bypasser/releases/latest)**
 2. Run the installer
 3. App will automatically install and open
 4. That's it!
-
-### Method 2: Build from Source
-
-```bash
-# Clone the repository
-git clone https://github.com/dyr14n/auto-bypasser.git
-cd auto-bypasser
-
-# Install dependencies
-npm install
-
-# Run the app
-npm start
-
-# Build for production
-npm run dist
-```
 
 ## Usage
 
@@ -139,11 +117,16 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 Elfuhh
 
-
-### Star this repo if you find it useful!
-
-[![Star History Chart](https://api.star-history.com/svg?repos=dyr14n/auto-bypasser&type=Date)](https://star-history.com/#dyr14n/auto-bypasser&Date)
-
+**🌟 If you find this useful, give it a star!**
+<a href="https://github.com/dyr14n/tirex-bypasser/stargazers">
+  <img src="https://img.shields.io/github/stars/dyr14n/tirex-bypasser?style=social" alt="GitHub stars">
+</a>
+<a href="https://github.com/dyr14n/tirex-bypasser/network/members">
+  <img src="https://img.shields.io/github/forks/dyr14n/tirex-bypasser?style=social" alt="GitHub forks">
+</a>
+<a href="https://github.com/dyr14n/tirex-bypasser/watchers">
+  <img src="https://img.shields.io/github/watchers/dyr14n/tirex-bypasser?style=social" alt="GitHub watchers">
+</a>
 </div>
 
 ## Support
@@ -152,7 +135,7 @@ Need help? Join our community!
 
 - [Discord Server](https://discord.gg/DWyEfeBCzY)
 - [YouTube Channel](https://www.youtube.com/@dyydeptry)
-- [Report Issues](https://github.com/dyr14n/auto-bypasser/issues)
+- [Report Issues](https://github.com/dyr14n/tirex-bypasser/issues)
 
 ---
 
