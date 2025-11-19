@@ -4,7 +4,7 @@
 
 ### *We are TiRex, we are never Tired.*
 
-[![Version](https://img.shields.io/badge/version-1.0.1--beta.5-blue.svg)](https://github.com/dyr14n/tirex-bypasser/releases)
+[![Version](https://img.shields.io/badge/version-1.0.1--beta.6-blue.svg)](https://github.com/dyr14n/tirex-bypasser/releases)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)](https://github.com/dyr14n/tirex-bypasser)
 [![Downloads](https://img.shields.io/github/downloads/dyr14n/tirex-bypasser/total.svg)](https://github.com/dyr14n/tirex-bypasser/releases)
@@ -39,7 +39,7 @@
 1. Download the latest **[TiRex-Bypasser.exe](https://github.com/dyr14n/tirex-bypasser/releases/latest)**
 2. Run the installer
 3. App will automatically install and open
-4. That's it! 🎉
+4. That's it!
 
 > **Note:** Windows Defender might flag the app. This is a false positive. Click "More info" → "Run anyway"
 
