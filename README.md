@@ -11,7 +11,11 @@
 
 **Automatic bypass tool for Volcano, Work.ink and more**
 
+[Download](https://github.com/dyr14n/tirex-bypasser/releases/latest) • [Discord](https://discord.gg/DWyEfeBCzY) • [YouTube](https://www.youtube.com/@dyydeptry)
+
 </div>
+
+---
 
 ## Features
 
@@ -22,7 +26,7 @@
 - **Fast & Efficient** - Optimized for speed and reliability
 - **Beautiful UI** - Modern, intuitive user interface
 
-## Supported Services
+## 🎯 Supported Services
 
 | Service | Status | 
 |---------|--------|
@@ -35,7 +39,9 @@
 1. Download the latest **[TiRex-Bypasser.exe](https://github.com/dyr14n/tirex-bypasser/releases/latest)**
 2. Run the installer
 3. App will automatically install and open
-4. That's it!
+4. That's it! 🎉
+
+> **Note:** Windows Defender might flag the app. This is a false positive. Click "More info" → "Run anyway"
 
 ## Usage
 
@@ -49,6 +55,8 @@
 
 ![Demo](https://media.discordapp.net/attachments/1417077178289360968/1439601027740336330/image.png?ex=691b1c6f&is=6919caef&hm=de58337003da6c250013c7fd3501dded2780c75defccf4cfdb7f3e0bd89bc7e7&=&format=webp&quality=lossless)
 
+*TiRex Bypasser in action*
+
 </div>
 
 ## Auto-Update
@@ -60,43 +68,70 @@ The app **automatically checks for updates** every time you open it!
 - **Update notifications** - Get notified when new features are available
 - **Fast updates** - Download and install in seconds
 
+> **How it works:** App checks GitHub Releases for updates → Downloads in background → Installs on restart
+
 ## Tech Stack
 
+<div align="center">
+
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+</div>
+
 - **Electron** - Cross-platform desktop framework
-- **Puppeteer** - Browser automation
+- **Puppeteer** - Browser automation & bypass logic
 - **Node.js** - Runtime environment
 - **electron-updater** - Auto-update functionality
 - **GitHub Releases** - Update distribution
 
 ## Requirements
 
-- **OS:** Windows 10/11 (64-bit)
-- **RAM:** 4GB minimum
-- **Storage:** 500MB free space
-- **Internet:** Required for operation
+| Component | Requirement |
+|-----------|-------------|
+| **OS** | Windows 10/11 (64-bit) |
+| **RAM** | 4GB minimum |
+| **Storage** | 500MB free space |
+| **Internet** | Required for operation |
 
 ## Troubleshooting
 
-### App won't open?
-- Right-click → Run as Administrator
-- Check if antivirus is blocking it
-- Reinstall the app
+<details>
+<summary><b>App won't open?</b></summary>
 
-### Bypass failed?
-- Check your internet connection
-- Make sure you're using the latest version
-- Try refreshing the page
+- Right-click → **Run as Administrator**
+- Check if **antivirus** is blocking it
+- Disable **Windows Defender SmartScreen** temporarily
+- **Reinstall** the app
 
-### Update not working?
-- Close and reopen the app
-- Check if GitHub is accessible
-- Manual download latest version
+</details>
+
+<details>
+<summary><b>Bypass failed?</b></summary>
+
+- Check your **internet connection**
+- Make sure you're using the **latest version**
+- Try **refreshing** the page
+- Check if the service is **down**
+
+</details>
+
+<details>
+<summary><b>Update not working?</b></summary>
+
+- **Close and reopen** the app
+- Check if **GitHub** is accessible
+- **Manual download** latest version
+- Check your **firewall** settings
+
+</details>
 
 ## Contributing
 
 Contributions are welcome! Feel free to:
 
-- Report bugs
+- [Report bugs](https://github.com/dyr14n/tirex-bypasser/issues)
 - Suggest new features
 - Submit pull requests
 - Improve documentation
@@ -117,7 +152,10 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 Elfuhh
 
-**🌟 If you find this useful, give it a star!**
+---
+
+### If you find this useful, give it a star!
+
 <a href="https://github.com/dyr14n/tirex-bypasser/stargazers">
   <img src="https://img.shields.io/github/stars/dyr14n/tirex-bypasser?style=social" alt="GitHub stars">
 </a>
@@ -127,15 +165,20 @@ Elfuhh
 <a href="https://github.com/dyr14n/tirex-bypasser/watchers">
   <img src="https://img.shields.io/github/watchers/dyr14n/tirex-bypasser?style=social" alt="GitHub watchers">
 </a>
+
 </div>
 
 ## Support
 
 Need help? Join our community!
 
-- [Discord Server](https://discord.gg/DWyEfeBCzY)
-- [YouTube Channel](https://www.youtube.com/@dyydeptry)
-- [Report Issues](https://github.com/dyr14n/tirex-bypasser/issues)
+<div align="center">
+
+[![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/DWyEfeBCzY)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@dyydeptry)
+[![Issues](https://img.shields.io/badge/Issues-Report-red?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dyr14n/tirex-bypasser/issues)
+
+</div>
 
 ---
 
@@ -144,5 +187,9 @@ Need help? Join our community!
 **Made with ❤️ by TiRex Team**
 
 *We are TiRex, we are never Tired.*
+
+![GitHub last commit](https://img.shields.io/github/last-commit/dyr14n/tirex-bypasser)
+![GitHub issues](https://img.shields.io/github/issues/dyr14n/tirex-bypasser)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/dyr14n/tirex-bypasser)
 
 </div>
