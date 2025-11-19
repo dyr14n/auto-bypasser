@@ -32,7 +32,7 @@
 
 ## Installation
 
-1. Download the latest **[Volcano-Bypasser.exe](https://github.com/dyr14n/tirex-bypasser/releases/latest)**
+1. Download the latest **[TiRex-Bypasser.exe](https://github.com/dyr14n/tirex-bypasser/releases/latest)**
 2. Run the installer
 3. App will automatically install and open
 4. That's it!
